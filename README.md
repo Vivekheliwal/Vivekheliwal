@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Vivekheliwal
-- 👀 I’m interested in web deveploment.
+- 👀 I’m interested in web deveploment and machine learning.
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me vivekkumarheliwal@gmail.com.
-
-<!---
-Vivekheliwal/Vivekheliwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Organised and continous-learner and can be trusted for handling various priorities with a positive attitude.
+- Have a constant urge to gain knowledge at all levels.
